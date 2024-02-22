@@ -1,7 +1,7 @@
 /*
 * Nama File : Titik.java 
 * Nama/NIM  : Fadhail Athaillah Bima/24060121140172
-* Tanggal   : 22/02/2023
+* Tanggal   : 22/02/2024
 * Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas Titik
 */
 
