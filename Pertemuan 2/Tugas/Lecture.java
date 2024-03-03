@@ -1,3 +1,5 @@
+package Tugas;
+
 import java.util.ArrayList;
 
 public class Lecture {

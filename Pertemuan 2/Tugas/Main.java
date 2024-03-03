@@ -1,3 +1,5 @@
+package Tugas;
+
 public class Main {
   public static void main(String[] args) {
     Lecture agus = new Lecture("Agus", 35, "Tembalang", "177013");
