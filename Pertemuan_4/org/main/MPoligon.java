@@ -1,3 +1,9 @@
+/**
+ * File : PersegiPanjang.java
+ * Penulis : Fadhail Athaillah Bima
+ * Deskripsi : driver class untuk poligon dan bangun datar
+ */
+
 package Pertemuan_4.org.main;
 import Pertemuan_4.org.bangundatar.*;
 
