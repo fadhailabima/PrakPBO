@@ -8,7 +8,7 @@ public class MLingkaran {
         System.out.print("Masukkan jejari Lingkaran : ");
         double jejari = scan.nextDouble();
         Lingkaran l = new Lingkaran(jejari);
-        System.out.println("Luas Lingkaran dengan TITIT " + jejari + " TITIT " + l.hitungLuas());
+        System.out.println("Luas Lingkaran dengan Jejari" + jejari + " Adalah " + l.hitungLuas());
         scan.close();
     }
 }
